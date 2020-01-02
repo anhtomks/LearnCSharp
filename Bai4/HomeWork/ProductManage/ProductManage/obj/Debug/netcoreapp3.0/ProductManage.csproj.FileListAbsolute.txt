@@ -1,0 +1,11 @@
+C:\Users\Kenz\Downloads\Learn\LearnDotNet\CSharp\Bai4\HomeWork\ProductManage\ProductManage\obj\Debug\netcoreapp3.0\ProductManage.csprojAssemblyReference.cache
+C:\Users\Kenz\Downloads\Learn\LearnDotNet\CSharp\Bai4\HomeWork\ProductManage\ProductManage\obj\Debug\netcoreapp3.0\ProductManage.AssemblyInfoInputs.cache
+C:\Users\Kenz\Downloads\Learn\LearnDotNet\CSharp\Bai4\HomeWork\ProductManage\ProductManage\obj\Debug\netcoreapp3.0\ProductManage.AssemblyInfo.cs
+C:\Users\Kenz\Downloads\Learn\LearnDotNet\CSharp\Bai4\HomeWork\ProductManage\ProductManage\bin\Debug\netcoreapp3.0\ProductManage.exe
+C:\Users\Kenz\Downloads\Learn\LearnDotNet\CSharp\Bai4\HomeWork\ProductManage\ProductManage\bin\Debug\netcoreapp3.0\ProductManage.deps.json
+C:\Users\Kenz\Downloads\Learn\LearnDotNet\CSharp\Bai4\HomeWork\ProductManage\ProductManage\bin\Debug\netcoreapp3.0\ProductManage.runtimeconfig.json
+C:\Users\Kenz\Downloads\Learn\LearnDotNet\CSharp\Bai4\HomeWork\ProductManage\ProductManage\bin\Debug\netcoreapp3.0\ProductManage.runtimeconfig.dev.json
+C:\Users\Kenz\Downloads\Learn\LearnDotNet\CSharp\Bai4\HomeWork\ProductManage\ProductManage\bin\Debug\netcoreapp3.0\ProductManage.dll
+C:\Users\Kenz\Downloads\Learn\LearnDotNet\CSharp\Bai4\HomeWork\ProductManage\ProductManage\bin\Debug\netcoreapp3.0\ProductManage.pdb
+C:\Users\Kenz\Downloads\Learn\LearnDotNet\CSharp\Bai4\HomeWork\ProductManage\ProductManage\obj\Debug\netcoreapp3.0\ProductManage.dll
+C:\Users\Kenz\Downloads\Learn\LearnDotNet\CSharp\Bai4\HomeWork\ProductManage\ProductManage\obj\Debug\netcoreapp3.0\ProductManage.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kenz\Downloads\Learn\LearnDotNet\CSharp\Bai2\Homework\HomeWorkL2\HomeWorkL2\bin\Debug\HomeWorkL2.exe.config
+C:\Users\Kenz\Downloads\Learn\LearnDotNet\CSharp\Bai2\Homework\HomeWorkL2\HomeWorkL2\bin\Debug\HomeWorkL2.exe
+C:\Users\Kenz\Downloads\Learn\LearnDotNet\CSharp\Bai2\Homework\HomeWorkL2\HomeWorkL2\bin\Debug\HomeWorkL2.pdb
+C:\Users\Kenz\Downloads\Learn\LearnDotNet\CSharp\Bai2\Homework\HomeWorkL2\HomeWorkL2\obj\Debug\HomeWorkL2.csprojAssemblyReference.cache
+C:\Users\Kenz\Downloads\Learn\LearnDotNet\CSharp\Bai2\Homework\HomeWorkL2\HomeWorkL2\obj\Debug\HomeWorkL2.exe
+C:\Users\Kenz\Downloads\Learn\LearnDotNet\CSharp\Bai2\Homework\HomeWorkL2\HomeWorkL2\obj\Debug\HomeWorkL2.pdb
