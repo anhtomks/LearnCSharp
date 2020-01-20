@@ -26,28 +26,56 @@ namespace ProductManage
             cm.exitCosole();
         }
     }
+    /// <summary>
+    /// Cac ham thuong dung trong chuong trinh
+    /// </summary>
     class Common
     {
+        /// <summary>
+        /// Ham nhap vao mot so nguyen
+        /// </summary>
+        /// <param name="mess">Doan text truyen vao </param>
+        /// <returns></returns>
         public int enterIntNumber(string mess)
         {
             Console.WriteLine(mess);
             return Convert.ToInt32(Console.ReadLine());
         }
+        /// <summary>
+        /// Ham nhap vao mot so thuc
+        /// </summary>
+        /// <param name="mess">Doan text truyen vao ham</param>
+        /// <returns></returns>
         public double enterDoubleNumber(string mess)
         {
             Console.WriteLine(mess);
             return Convert.ToDouble(Console.ReadLine());
         }
+        /// <summary>
+        /// Ham nhap vao mot doan text
+        /// </summary>
+        /// <param name="mess">Doan text truyen vao</param>
+        /// <returns></returns>
         public string enterString(string mess)
         {
             Console.WriteLine(mess);
             return Console.ReadLine();
         }
+        /// <summary>
+        /// Ham thoat ung dung Console
+        /// </summary>
         public void exitCosole()
         {
             Console.WriteLine("\n\n**** Press any key to exit! ****");
             Console.ReadKey();
         }
+        /// <summary>
+        /// Ham nhap vao mot so nguyen trong mot khoang nao do
+        /// </summary>
+        /// <param name="mess">Tham so truyen vao</param>
+        /// <param name="from">Gia tri nho nhat co the nhap</param>
+        /// <param name="to">Gia tri lon nhat co the nhap</param>
+        /// <returns></returns>
         public int enterNumberInRange(string mess, int from, int to)
         {
             int n;
